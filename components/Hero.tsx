@@ -13,8 +13,8 @@ const Profile = () => {
         <Image
           src="/website.jpg"
           alt="Andre Wang at Miami harbor"
-          layout="fill"
-          objectFit="cover"
+          fill
+          style={{ objectFit: 'cover' }}
         />
       </div>
     </div>
