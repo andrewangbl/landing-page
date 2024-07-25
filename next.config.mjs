@@ -4,6 +4,8 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+  assetPrefix: '/landing-page/',
+  basePath: '/landing-page',
 };
 
 export default nextConfig;
