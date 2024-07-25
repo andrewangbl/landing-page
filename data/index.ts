@@ -147,7 +147,7 @@ export const workExperience = [
   {
     id: 1,
     title: "Software Developer Intern - Procuro AI",
-    desc: "Build a scalable backend API to automate the scraping of company news articles.",
+    desc: "Built a scalable backend API to automate the scraping of company news articles.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
@@ -161,14 +161,14 @@ export const workExperience = [
   {
     id: 3,
     title: "Freelance AI Engineer - Pomu",
-    desc: "Assist in building a fashion manufacture recommendation system based on OpenAI CLIP(Contrastive Language-Image Pre-training) model.",
+    desc: "Assisted in building a fashion manufacture recommendation system based on OpenAI CLIP(Contrastive Language-Image Pre-training) model.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
     title: "Undergraduate Research Assistant",
-    desc: "Test and calculate metrics for SLAM (Simultaneous Localization and Mapping) algorithms.",
+    desc: "Tested and calculated metrics for SLAM (Simultaneous Localization and Mapping) algorithms.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
