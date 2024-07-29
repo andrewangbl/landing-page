@@ -86,6 +86,9 @@ const Hero = () => {
 
           <Profile />
 
+          {/* Added a div with responsive margin */}
+          <div className="my-4 md:my-6 lg:my-8"></div>
+
           <a href="#about">
             <MagicButton
               title="About me"

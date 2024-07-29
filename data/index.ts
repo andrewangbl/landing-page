@@ -91,6 +91,14 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg"],
     link: "https://github.com/andrewangbl/prompt-sharing-hub",
   },
+  {
+    id: 2,
+    title: "Daily Briefs",
+    des: " An platform that scrape and accurately summarize daily Google News articles",
+    img: "/sports_news.svg",
+    iconLists: ["/next.svg", "/tail.svg"],
+    link: "https://github.com/masonzhangg/dailybrief",
+  },
 ];
 
 export const testimonials = [
